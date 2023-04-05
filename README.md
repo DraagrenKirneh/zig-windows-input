@@ -1,6 +1,6 @@
 
 # Zig Windows Input
-A zig implementation of SendInput for synthesiz keystrokes, mouse motions, and button clicks. 
+A zig implementation of SendInput for emulating keystrokes, mouse motions, and button clicks. 
 See [nf-winsuer-sendinput](https://learn.microsoft.com/nb-no/windows/win32/api/winuser/nf-winuser-sendinput).
 
 ## Adding this package to a project in build.zig
